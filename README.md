@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+If you are local to the Eugene, Oregon area, please feel free to say hi.
+
+Most of my workday programming is Python, backend JavaScript (Node/Express), Ansible, Shell, etc.
+
+Despite being a "UNIX Guy", I used to do a ton of C#/.net/ASP.net.
+
+
 <!--
 **codejake/codejake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
