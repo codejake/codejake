@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you are local to the Eugene, Oregon area, please feel free to say hi.
+If you are local to the Eugene, Oregon area, please feel free to say hi. And I always welcome constructive criticism.
 
 Most of my workday programming is Python, backend JavaScript (Node/Express), Ansible, Shell, etc.
 
