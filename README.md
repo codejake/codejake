@@ -4,6 +4,8 @@ If you are local to the Eugene, Oregon area, please feel free to say hi.
 
 Most of my workday programming is Python, backend JavaScript (Node/Express), Ansible, Shell, etc.
 
+I also dabble with Golang, Ruby, Swift, and so on.
+
 Despite being a "UNIX Guy", I used to do a ton of C#/.net/ASP.net.
 
 
