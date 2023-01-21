@@ -4,7 +4,7 @@ If you are local to the Eugene, Oregon area, please feel free to say hi. And I a
 
 I mostly work with Python, Go, backend JavaScript (Node/Express), Ansible, Shell, etc.
 
-I also dabble with Golang, Ruby, Swift, and so on.
+I also dabble with Ruby, Swift, and so on.
 
 Despite being a "UNIX Guy", I used to do a ton of C#/.net/ASP.net.
 
