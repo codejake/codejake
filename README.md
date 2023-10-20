@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a network engineer and programmer that manages a large amount of stuff in a large education network.
+
 If you are local to the Eugene, Oregon area, please feel free to say hi. And I always welcome constructive criticism on my commits.
 
 I primarily work with:
@@ -14,6 +16,7 @@ I primarily work with:
 - Powershell
 - Graylog
 - SQL
+- Active Directory
 
 I also dabble with Ruby, Swift, and so on.
 
