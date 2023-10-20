@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-If you are local to the Eugene, Oregon area, please feel free to say hi. And I always welcome constructive criticism.
+If you are local to the Eugene, Oregon area, please feel free to say hi. And I always welcome constructive criticism on my commits.
 
-I mostly work with Python, Go, backend JavaScript (Node/Express), Ansible, Shell, etc.
+I primarily work with:
+- Cisco junk (IOS * and AireOS)
+- Juniper
+- Fortigate
+- Python
+- Go
+- JavaScript (mostly backend Node/Express)
+- Ansible
+- shell
+- Powershell
 
 I also dabble with Ruby, Swift, and so on.
 
