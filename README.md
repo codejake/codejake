@@ -12,6 +12,8 @@ I primarily work with:
 - Ansible
 - shell
 - Powershell
+- Graylog
+- SQL
 
 I also dabble with Ruby, Swift, and so on.
 
