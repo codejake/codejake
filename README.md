@@ -1,22 +1,23 @@
 ### Hi there 👋
 
-I am a network engineer and programmer that manages a large amount of stuff in a large education network.
+I am a network engineer and programmer that manages a lot of stuff in a large education network.
 
 If you are local to the Eugene, Oregon area, please feel free to say hi. And I always welcome constructive criticism on my commits.
 
 I primarily work with:
-- Cisco junk (IOS * and AireOS)
-- Juniper
-- Fortigate
-- Python
-- Go
-- JavaScript (mostly backend Node/Express)
-- Ansible
-- shell
-- Powershell
-- Graylog
-- SQL
-- Active Directory
+- 🤬 Cisco junk (IOS * and AireOS)
+- 🌲 Juniper
+- 🔥 Fortigate
+- 🐍 Python
+- 🐚 shell
+- 🦫 Go
+- 🕸️ JavaScript (mostly backend Node/Express)
+- 🪵 Graylog
+- 🕵🏻‍♂️ APIs and API reverse engineering
+- 🤖 Ansible
+- 🔋 Powershell
+- 📈 SQL
+- 🧑‍🤝‍🧑 Active Directory
 
 I also dabble with Ruby, Swift, and so on.
 
