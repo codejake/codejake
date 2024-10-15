@@ -19,10 +19,12 @@ I primarily work with:
 - 📈 SQL
 - 🧑‍🤝‍🧑 Active Directory
 
-I also dabble with Ruby, Swift, and so on.
+I also dabble with Ruby (regular and Rails), Swift, and so on.
 
-Despite being a "UNIX Guy", I used to do a ton of C#/.net/ASP.net.
-
+Despite being a "UNIX Guy", I used to do some Windows stuff!
+- Do a ton of C#/.net/ASP.NET, primarily building backend management websites and low-level LDAP code (most of System.DirectoryServices didn't exist back then).
+- Write misc apps, including video game "trainers" in C++ (MFC, etc).
+- Built business apps in Visual Basic and Access. 😅
 
 <!--
 **codejake/codejake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
