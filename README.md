@@ -2,7 +2,7 @@
 
 I am a network engineer and programmer that manages a lot of stuff in a large education network.
 
-If you are local to the Eugene, Oregon area, please feel free to say hi. And I always welcome constructive criticism on my commits.
+I am in the Eugene, Oregon area. Feel free to say hello, especially if you're local.
 
 I primarily work with:
 - 🐍 Python
@@ -19,7 +19,7 @@ I primarily work with:
 - 📈 SQL
 - 🧑‍🤝‍🧑 Active Directory
 
-I also dabble with Ruby (regular and Rails), Swift, and so on.
+I've also dabbled with Ruby (regular and Rails), Swift, Objective C, and so on.
 
 Despite being a "UNIX Guy", I used to do some Windows stuff, long ago!
 - Did a ton of C#/.net/ASP.NET, primarily building backend management websites and low-level LDAP code (most of System.DirectoryServices didn't exist back then)
