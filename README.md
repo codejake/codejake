@@ -12,7 +12,7 @@ I primarily work with:
 - 🌲 Juniper
 - 🐚 shell
 - 🦫 Go
-- 🕸️ JavaScript (mostly backend Node/Express)
+- 🕸️ JavaScript/TypeScript (mostly backend Node/Express)
 - 🕵🏻‍♂️ APIs and API reverse engineering
 - 🤖 Ansible
 - 🔋 Powershell
