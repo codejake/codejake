@@ -19,10 +19,11 @@ I primarily work with:
 - 📈 SQL
 - 🧑‍🤝‍🧑 Active Directory
 
-I've also dabbled with Ruby (regular and Rails), Swift, Objective C, and so on.
+I've also used with Ruby (regular and Rails), Swift, Objective C, and so on.
 
 Despite being a "UNIX Guy", I used to do some Windows stuff, long ago!
-- Did a ton of C#/.net/ASP.NET, primarily building backend management websites and low-level LDAP code (most of System.DirectoryServices didn't exist back then)
+
+- I once did a ton of C#/.net/ASP.NET, primarily building backend management websites and low-level LDAP code (most of System.DirectoryServices didn't exist back then)
 - Wrote misc apps, including video game "trainers" in C++ (MFC, etc) 😎
 - Some NT kernel programming (NT 4 and 2000 era) 👴🏻
 - Built business apps in Visual Basic and Access back in the 1990s. 😅
