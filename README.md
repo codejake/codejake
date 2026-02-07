@@ -1,28 +1,28 @@
 ### Hi there 👋
 
-I am a network engineer and programmer that manages a lot of stuff in a large education network.
+I am a network engineer and programmer that makes and manages a lot of stuff in a large education network.
 
 I am in the Eugene, Oregon area. Feel free to say hello, especially if you're local.
 
 I primarily work with:
 - 🐍 Python
+- 🕸️ JavaScript/TypeScript (mostly backend API stuff with Bun, these days)
 - 🪵 Graylog
 - 🔥 Fortigate
-- 🤬 Cisco junk (IOS * and AireOS)
-- 🌲 Juniper
+- 🌲 Juniper Mist
+- 🌲 Juniper JunOS
+- 🤬 ~~Cisco junk (IOS * and AireOS)~~
 - 🐚 shell
 - 🦫 Go
-- 🕸️ JavaScript/TypeScript (mostly backend Node/Express)
 - 🕵🏻‍♂️ APIs and API reverse engineering
 - 🤖 Ansible
 - 🔋 Powershell
 - 📈 SQL
 - 🧑‍🤝‍🧑 Active Directory
 
-I've also used with Ruby (regular and Rails), Swift, Objective C, and so on.
+I used to do: 
 
-Despite being a "UNIX Guy", I used to do some Windows stuff, long ago!
-
+- C#, ASP.net, Ruby (regular and Rails), Swift, Objective C, UNIX C, Turbo C++, Windows C++, 68K ASM, and so on. 😂
 - I once did a ton of C#/.net/ASP.NET, primarily building backend management websites and low-level LDAP code (most of System.DirectoryServices didn't exist back then)
 - Wrote misc apps, including video game "trainers" in C++ (MFC, etc) 😎
 - Some NT kernel programming (NT 4 and 2000 era) 👴🏻
