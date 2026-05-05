@@ -4,7 +4,7 @@ I am a network engineer and programmer that makes and manages a lot of stuff in 
 
 I am in the Eugene, Oregon area. Feel free to say hello, especially if you're local.
 
-I primarily work with:
+I primarily work with (in no particular order):
 - 🐍 Python
 - 🕸️ JavaScript/TypeScript (mostly backend API stuff with Bun, these days)
 - 🪵 Graylog
