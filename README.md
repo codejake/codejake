@@ -23,7 +23,7 @@ I primarily work with (in no particular order):
 I used to do: 
 
 - C#, ASP.net, Ruby (regular and Rails), Swift, Objective C, UNIX C, Turbo C++, Windows C++, 68K ASM, and so on. 😂
-- I once did a ton of C#/.net/ASP.NET, primarily building backend management websites and low-level LDAP code (most of System.DirectoryServices didn't exist back then)
+- I once did a ton of C#/.net/ASP.NET, primarily building backend management websites, P/Invoke, and low-level LDAP code (most of System.DirectoryServices didn't exist back then)
 - Wrote misc apps, including video game "trainers" in C++ (MFC, etc) 😎
 - Some NT kernel programming (NT 4 and 2000 era) 👴🏻
 - Built business apps in Visual Basic and Access back in the 1990s. 😅
