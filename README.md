@@ -1,24 +1,32 @@
-### Hi there 👋
+## Hi there 👋
 
-I am a network engineer and programmer that makes and manages a lot of stuff in a large education network.
+I am a network engineer and programmer in Eugene, Oregon. I make things and manage a lot of stuff in a large education network, along with an assortment of other tasks. Feel free to say hello, especially if you're local.
 
-I am in the Eugene, Oregon area. Feel free to say hello, especially if you're local.
+## Now
 
-I primarily work with (in no particular order):
+- Working on Stella: powerful, efficient and elegant network monitoring software written in Go. A public repo soon!
+- Working on miscellaneous native mobile apps that redefine how I use my iPhone.
+
+## Info
+
+I primarily do (in no particular order):
+
+- 🤖 Agents
 - 🐍 Python
 - 🕸️ JavaScript/TypeScript (mostly backend API stuff with Bun, these days)
 - 🪵 Graylog
 - 🔥 Fortigate
 - 🌲 Juniper Mist
 - 🌲 Juniper JunOS
-- 🤬 ~~Cisco junk (IOS * and AireOS)~~
-- 🐚 shell
+- 🤬 Cisco junk (IOS * ~~and AireOS~~)
+- 🐚 Shell
 - 🦫 Go
 - 🕵🏻‍♂️ APIs and API reverse engineering
-- 🤖 Ansible
+- ⚙️ Ansible, Nornir, oxidized, etc
 - 🔋 Powershell
 - 📈 SQL
 - 🧑‍🤝‍🧑 Active Directory
+- 🕷️ Security, pentesting, threat hunting, etc.
 
 I used to do: 
 
