@@ -34,7 +34,8 @@ I used to do:
 - I once did a ton of C#/.net/ASP.NET, primarily building backend management websites, P/Invoke, and low-level LDAP code (most of System.DirectoryServices didn't exist back then)
 - Wrote misc apps, including video game "trainers" in C++ (MFC, etc) 😎
 - Some NT kernel programming (NT 4 and 2000 era) 👴🏻
-- Built business apps in Visual Basic and Access back in the 1990s. 😅
+- Windows Phone programming!
+- Built an HR system and business applications for a squadron of hundreds using Visual Basic and Access during the 1990s in the military. 😅
 
 <!--
 **codejake/codejake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
